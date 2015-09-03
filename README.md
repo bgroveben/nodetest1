@@ -8,4 +8,4 @@ To run the app:  $ SET DEBUG=nodetest1b:*& npm start
 
 Note about Jade - indentation is VERY important.
 
-Step 4 - Edit Dependencies
+Part 3 Step 1 - Install MongDB
