@@ -4,4 +4,8 @@ http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
 
 Thank You Christopher!
 
+To run the app:  $ SET DEBUG=nodetest1b:*& npm start
+
 Note about Jade - indentation is VERY important.
+
+Step 4 - Edit Dependencies
