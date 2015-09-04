@@ -12,4 +12,9 @@ RUN MONGOD AND MONGO: from /usr/local/bin run  $ mongod --dbpath ~/Desktop/Javas
 Then open another terminal window, cd to /usr/local/bin and run  $ mongo, then  $ use nodetest1
 
 
-PART 4 – THE HOLY GRAIL: WRITING TO THE DB
+PART 5 - NEXT STEPS
+
+The author has a sequel to this tutorial titled "Creating a Simple RESTful Web App with Node.js, Express, and MongoDB"
+at http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/
+
+TTFN
