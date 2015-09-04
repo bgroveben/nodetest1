@@ -8,4 +8,7 @@ To run the app:  $ SET DEBUG=nodetest1b:*& npm start
 
 Note about Jade - indentation is VERY important.
 
+RUN MONGOD AND MONGO: from /usr/local/bin run  $ mongod --dbpath ~/Desktop/Javascript/Node/nodetest1/data
+Then open another terminal window, cd to /usr/local/bin and run  $ mongo 
+
 Part 3 STEP 6 – PULL YOUR DATA FROM MONGO AND DISPLAY IT
